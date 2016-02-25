@@ -130,6 +130,7 @@ header nav ul li a {
   background: #033048;
   color: #fff;
   font-size: 24px;
+  border:0px;
 }
 #benefits {
   padding: 100px 0 80px;
@@ -292,6 +293,10 @@ footer p {
   width: 70%;
 }
 
+.formstyle {
+
+}
+
 @media only screen and (max-width: 768px) {
   body {
     font-size: 18px;
@@ -368,5 +373,3 @@ footer p {
     display: none;
   }
 }
-
-
